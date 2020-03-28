@@ -1,0 +1,223 @@
+#title {
+  color: white;
+}
+
+/* Feture Section */
+#features {
+  padding: 7% 15%;
+  position: relative;
+}
+
+#logo {
+  width: 30%;
+}
+#footer  {
+  padding: 7% 15%;
+  text-align: center;
+}
+#Klowd {
+  color: #465881;
+}
+.light-section {
+  background-color: #00909e;
+}
+
+.color-section {
+    background-color: #000;
+
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5rem;
+  padding-bottom: 15px;
+}
+
+.container-fluid {
+  padding: 3% 15% 10%;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+
+}
+
+.navbar-brand {
+  font-size: 3rem;
+  font-family: "Ubuntu";
+
+}
+.feature-title {
+  font-size: 1.5rem;
+}
+.navar {
+  padding-bottom: 15%;
+}
+
+.navitem {
+  padding: 0 20px;
+}
+
+.nav-link {
+  font-family: "Montserrat";
+  font-weight: 300;
+  font-size: 1.2rem;
+  color: #465881;
+}
+.nav-link:hover {
+  color: #00909e;
+}
+
+/* Download Buttons */
+.dlb {
+  margin: 5% 3% 5% 0%
+}
+
+/* Title Img */
+
+
+@media (max-width: 1000px) {
+  .navbar.collapsing,
+  .navbar.show {
+      background:white !important;
+  }
+  .navbar {
+    color: yellow;
+  }
+}
+  #title {
+    text-align: center;
+  }
+  .img1 {
+    position: static;
+    transform: rotate(0);
+  }
+
+}
+.imgtime {
+  margin-bottom: 1rem;
+}
+
+
+.backg {
+  z-index: 1;
+  background-color: #fff;
+}
+
+/* Feature Box  */
+.one {
+  height: 200px;
+}
+
+.testimg {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.pressimg {
+  width: 10%;
+  margin: 20px 40px 50px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.card-deck {
+}
+
+.footer-head {
+  padding: 7% 18% 1%;
+  font-size: 3.5rem;
+
+}
+
+.card {
+  padding: 3% 2%;
+}
+
+.social {
+  padding: 12px;
+  padding-bottom: 50px;
+  color: #fff;
+}
+.social:hover {
+  color: #00909e;
+
+}
+.big-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+  text-align: left;
+
+}
+.price-text {
+font-size: 3rem;
+line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat";
+  font-weight: 900;
+}
+
+body {
+  font-family: "Montserrat";
+    text-align: center;
+}
+
+
+p {
+  color: #black;
+}
+
+/* Twitter */
+.twitter-timeline {
+ max-width: 100%;
+ max-height: 1000px;
+}
+.fa {
+  font-size: 25px;
+  color: ;
+}
+.panel-title {
+ font-size: 25px;
+ color: #1b2a49;
+ font-family: 'Open Sans', sans-serif;
+}
+.panel-heading {
+ background-color: #00909e!important;;
+ color: #00909e !important;;
+}
+.panel {
+ margin-top: 25px;
+ background-color: #1b2a49;
+}
+.pad {
+  padding-right: 10px;
+}
+
+/* cards */
+.card {
+width: 90%;
+padding: 10px;
+        background: #465881;
+}
+#rosters {
+  text-align: center;
+}
+
+.card-title {
+
+}
+.card-marg {
+  padding: 10px
+}
+.elo {
+  padding: 5%;
+}
+h5 {
+  color: #00909e
+}
