@@ -5,7 +5,7 @@
 /* Feture Section */
 #features {
   padding: 7% 15%;
-  position: relative;5
+  position: relative;
 }
 
 #logo {
@@ -30,6 +30,7 @@
 .section-heading {
   font-size: 3rem;
   line-height: 1.5rem;
+  padding-bottom: 15px;
 }
 
 .container-fluid {
@@ -139,10 +140,10 @@
 .social {
   padding: 12px;
   padding-bottom: 50px;
-  color: #000;
+  color: #fff;
 }
 .social:hover {
-  color: #465881;
+  color: #00909e;
 
 }
 .big-heading {
@@ -196,4 +197,27 @@ p {
 }
 .pad {
   padding-right: 10px;
+}
+
+/* cards */
+.card {
+width: 90%;
+padding: 10px;
+        background: #465881;
+}
+#rosters {
+  text-align: center;
+}
+
+.card-title {
+
+}
+.card-marg {
+  padding: 10px
+}
+.elo {
+  padding: 5%;
+}
+h5 {
+  color: #00909e
 }
