@@ -1,7 +1,14 @@
 #title {
   color: white;
 }
-
+#logo2 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 70%;
+}
+.contact-form {
+  padding: 10px;
+}
 /* Feture Section */
 #features {
   padding: 7% 15%;
